@@ -1,0 +1,1 @@
+all_hist = batchFormation('E:\collage_research_work\feature\data_set\cmaterdb\BengaliBMP\','bmp');
