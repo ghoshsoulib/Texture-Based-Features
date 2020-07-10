@@ -1,0 +1,6 @@
+call the MapU function first
+	dict = MapU()
+
+call the ULBP function to get the feature
+Input : image and dict (obtained from MapU() function)
+Output : feature vector of size 59

@@ -1,0 +1,6 @@
+call the MapU function first
+	dict = MapR()
+
+call the RLBP function to get the feature
+Input : image and dict (obtained from MapR() function)
+Output : feature vector of size 36

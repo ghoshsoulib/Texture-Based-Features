@@ -1,0 +1,4 @@
+call [feature] = LBP(image) function
+
+Input : image
+output: feature vector of size 256
